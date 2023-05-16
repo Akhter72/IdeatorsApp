@@ -1,0 +1,8 @@
+{
+  "name": "myapp",
+  "displayName": "myapp",
+  "expo": {
+    "userInterfaceStyle": "automatic"
+  }
+  
+}
